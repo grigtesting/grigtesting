@@ -1376,4 +1376,5 @@ a:focus, a:hover {
     height: 1.5em;
     width: 1.5em
 }
-#content p , h2{color: #57cbcc}
+#content p, 
+#content h2{color: #57cbcc}
